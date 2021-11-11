@@ -2,7 +2,9 @@ package com.wangduwei.algorithms.leetcode.all_hand_up;
 
 import java.util.HashMap;
 
-/** 两数之和，考察map的使用
+/**
+ * 两数之和，考察map的使用
+ *
  * @author : wangduwei
  * @date : 2020/6/21
  * @description :

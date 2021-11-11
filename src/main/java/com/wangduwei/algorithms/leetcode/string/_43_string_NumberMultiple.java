@@ -9,10 +9,10 @@ import java.util.List;
  * @author : wangduwei
  * @since : 2020/3/30  12:50
  **/
-public class StringNumberMultiple {
+public class _43_string_NumberMultiple {
 
     public static void main(String[] args) {
-        String result = StringNumberMultiple.solution("123", "456");
+        String result = _43_string_NumberMultiple.solution("123", "456");
         System.out.print("result = " + result);
     }
 

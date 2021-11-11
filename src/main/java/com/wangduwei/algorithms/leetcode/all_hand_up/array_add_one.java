@@ -3,7 +3,7 @@ package com.wangduwei.algorithms.leetcode.all_hand_up;
 import com.wangduwei.algorithms.leetcode.AlgorithmCommon;
 
 /**
- * <p>
+ * <p>数组加一
  *
  * @author : wangduwei
  * @since : 2020/7/15  16:28

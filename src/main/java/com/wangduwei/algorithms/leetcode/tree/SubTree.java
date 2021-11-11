@@ -10,7 +10,6 @@ import com.wangduwei.algorithms.leetcode.TreeNode;
  **/
 public class SubTree {
 
-
     public boolean isSubtree(TreeNode s, TreeNode t) {
         if (s != null) {
             if (s.val == t.val) {

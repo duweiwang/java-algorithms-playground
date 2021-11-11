@@ -13,7 +13,7 @@ import java.util.Queue;
  * @date : 2020/4/5
  * @description :
  */
-public class printLevelK {
+public class PrintLevelK {
     public static void main(String[] args) {
         TreeNode root = AlgorithmCommon.generateTreeLevel3();
         printKDistant(root, 3);

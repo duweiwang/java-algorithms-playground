@@ -8,7 +8,7 @@ import com.wangduwei.algorithms.leetcode.TreeNode;
  * @author : wangduwei
  * @since : 2020/5/28  14:17
  **/
-public class NearCommonNode {
+public class LowestCommonAncestor {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
         //递归出口
         if (root == null || root == p || root == q)

@@ -4,6 +4,8 @@ import java.util.LinkedList;
 import java.util.List;
 
 /**
+ * 数组和整数相加
+ *
  * @author : wangduwei
  * @date : 2020/6/21
  * @description :

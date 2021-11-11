@@ -1,7 +1,7 @@
 package com.wangduwei.algorithms.bitmap;
 
 /**
- * <p>
+ * <p>位图算法。
  *
  * @author : wangduwei
  * @since : 2020/4/15  13:59
