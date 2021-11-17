@@ -1,8 +1,8 @@
-package com.wangduwei.algorithms.leetcode.tree.reaversal;
+package com.wangduwei.algorithms.leetcode.tree.traversal;
 
 import java.util.Stack;
 
-import static com.wangduwei.algorithms.leetcode.tree.reaversal.TraversalBinaryTree.printNode;
+import static com.wangduwei.algorithms.leetcode.tree.traversal.TraversalBinaryTree.printNode;
 
 /**
  * <p>深度优先

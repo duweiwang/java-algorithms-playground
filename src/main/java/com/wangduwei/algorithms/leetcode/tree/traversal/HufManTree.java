@@ -1,4 +1,4 @@
-package com.wangduwei.algorithms.leetcode.tree.reaversal;
+package com.wangduwei.algorithms.leetcode.tree.traversal;
 
 /**
  * <p>
