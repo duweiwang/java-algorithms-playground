@@ -1,4 +1,4 @@
-package com.wangduwei.algorithms.dp.pack;
+package com.wangduwei.algorithms.dp.backpack;
 
 /**
  * 简单的0-1背包问题
