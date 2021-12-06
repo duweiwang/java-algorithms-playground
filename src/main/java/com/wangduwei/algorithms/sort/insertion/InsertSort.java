@@ -38,12 +38,4 @@ public class InsertSort extends BaseSortAlgorithms {
         display(array);
     }
 
-
-    //没有一次性写出来
-    public void test(int[] nums) {
-
-
-
-
-    }
 }
