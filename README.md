@@ -7,7 +7,7 @@
 </p>
 
 Java-Algorithms-Playground is a collection of Data-Structure and Algorithms implementation in Java.
-It's accumulations of my daily learning in fact.
+These are accumulations of my daily learning in fact.
 
 ## Features
 
