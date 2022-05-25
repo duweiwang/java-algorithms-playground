@@ -4,6 +4,7 @@
     <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg"/></a>
     <img alt="Stars" src="https://img.shields.io/github/stars/duweiwang/java-algorithms-playground?style=social"/>
     <img alt="Last Commit" src="https://img.shields.io/github/last-commit/duweiwang/java-algorithms-playground"/>
+    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fduweiwang%2Fjava-algorithms-playground&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
 
 Java-Algorithms-Playground is a collection of Data-Structure and Algorithms implementation in Java.
